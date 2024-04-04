@@ -50,21 +50,21 @@ This formula checks the currency of each transaction. If the currency is USD or 
 
 ### Key Insights
 
-![Key Insights](images/key-insights.png)
+![Key Insights](images/key-insights.PNG)
 
 Description: 
 This visualization provides a summary of the key insights gained from the sales data analysis. It highlights trends, patterns, and significant findings that are crucial for decision-making and strategy formulation.
 
 ### Performance Insights
 
-![Performance Insights](images/performance-insights.png)
+![Performance Insights](images/performance-insights.PNG)
 
 Description: 
 The performance insights image presents a comprehensive overview of various performance metrics, such as sales growth, customer acquisition, and market penetration. It helps in assessing the effectiveness of business strategies and identifying areas for improvement.
 
 ### Profit Analysis
 
-![Profit Analysis](images/profit-analysis.png)
+![Profit Analysis](images/profit-analysis.PNG)
 
 Description: 
 The profit analysis image depicts a detailed analysis of the company's profitability, including revenue streams, cost structures, and profit margins. It offers valuable insights into the financial health of the business and assists in optimizing revenue generation and cost management strategies.
