@@ -2,6 +2,8 @@
 
 ### Data Analysis Using SQL
 
+In this project, SQL was employed as the primary tool for data analysis. SQL queries were utilized to extract, manipulate, and derive insights from the provided dataset.
+
 1. Show all customer records
 
     `SELECT * FROM customers;`
