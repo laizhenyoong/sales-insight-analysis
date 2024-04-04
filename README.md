@@ -54,4 +54,7 @@ This visualization provides a summary of the key insights gained from the sales 
 
 <p align="center"><img src="images/key_insights.PNG" alt="Logo" width="70%"></p>
 
+<p align="center"><img src="images/profit_analysis.PNG" alt="Logo" width="70%"></p>
+
+<p align="center"><img src="images/performance_insights.PNG" alt="Logo" width="70%"></p>
 
