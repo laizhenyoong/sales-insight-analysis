@@ -52,6 +52,6 @@ This formula checks the currency of each transaction. If the currency is USD or 
 
 This visualization provides a summary of the key insights gained from the sales data analysis. It highlights trends, patterns, and significant findings that are crucial for decision-making and strategy formulation.
 
-<p align="center"><img src="images/performance_insights.PNG" alt="Logo" width="70%"></p>
+<p align="center"><img src="images/key_insights.PNG" alt="Logo" width="70%"></p>
 
 
